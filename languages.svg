@@ -134,31 +134,34 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 84.778%;
+  width: 84.656%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 3.856%;
+  width: 3.876%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 3.413%;
+  width: 3.445%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 3.113%;
+  width: 3.108%;
 " class="progress-item"></span><span style="
   background-color: #878787; 
-  width: 1.800%;
+  width: 1.797%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 1.540%;
+  width: 1.543%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.881%;
+  width: 0.880%;
 " class="progress-item"></span><span style="
   background-color: #198CE7; 
-  width: 0.485%;
+  width: 0.484%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.132%;
+  width: 0.131%;
+" class="progress-item"></span><span style="
+  background-color: #41b883; 
+  width: 0.076%;
 " class="progress-item"></span><span style="
   background-color: #C1F12E; 
   width: 0.002%;
@@ -182,7 +185,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">84.78%</span>
+  <span class="percent">84.66%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -198,7 +201,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">3.86%</span>
+  <span class="percent">3.88%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -214,7 +217,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">3.41%</span>
+  <span class="percent">3.45%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -313,6 +316,22 @@ div.ellipsis {
   <span class="percent">0.13%</span>
 </li>
 <li style="animation-delay: 1500ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #41b883;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Vue</span>
+  <span class="percent">0.08%</span>
+</li>
+<li style="animation-delay: 1650ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
